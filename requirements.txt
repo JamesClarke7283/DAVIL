@@ -1,0 +1,5 @@
+pywebview[gtk]
+Quart
+PyGObject
+hypercorn
+hupper
